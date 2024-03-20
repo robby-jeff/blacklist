@@ -6,7 +6,7 @@
 int find_name(char name[50]){
 
     FILE* file;
-    file = fopen("ro.txt", "r");
+    file = fopen("names.txt", "r");
     char yo[50];
     char temp[50];
     int resul;
