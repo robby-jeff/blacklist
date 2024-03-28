@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+
+#include "delete_name.h"
+
 void delete_name(FILE* fichier, char* name)
 {
 
